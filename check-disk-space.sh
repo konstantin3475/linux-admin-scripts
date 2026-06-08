@@ -6,8 +6,6 @@
 # Purpose:
 # Checks all mounted filesystems and reports partitions
 # that exceed a defined disk usage threshold.
-#
-# Author: Konstantin Kountouroyanis
 # ------------------------------------------------------------
 
 # Warning threshold in percent.
